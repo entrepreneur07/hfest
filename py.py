@@ -1,1 +1,1 @@
-print("ABCD A")
+print("ABCD AB")
